@@ -1,3 +1,5 @@
+// product cart popup code overall that is working fine
+
 document.addEventListener('DOMContentLoaded', function () {
   // Event listener for quick view links
   document.querySelectorAll('.quick-view').forEach(function (link) {
